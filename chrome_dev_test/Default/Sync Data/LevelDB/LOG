@@ -1,3 +1,6 @@
 2024/12/30-02:09:51.990 a507 Reusing MANIFEST /Users/nomac74/project24/Hotel-reservation-system/eletron-app/chrome_dev_test/Default/Sync Data/LevelDB/MANIFEST-000001
 2024/12/30-02:09:51.999 a507 Recovering log #29
 2024/12/30-02:09:52.004 a507 Reusing old log /Users/nomac74/project24/Hotel-reservation-system/eletron-app/chrome_dev_test/Default/Sync Data/LevelDB/000029.log 
+2024/12/30-02:41:02.039 b103 Level-0 table #34: started
+2024/12/30-02:41:02.047 b103 Level-0 table #34: 104501 bytes OK
+2024/12/30-02:41:02.054 b103 Delete type=0 #29

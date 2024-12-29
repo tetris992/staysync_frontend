@@ -1,13 +1,10 @@
-# Node modules
-node_modules/
-
 # Environment variables
-.env
-
-# 기타 무시할 파일들
 *.log
 *.tmp
 .DS_Store
+node_modules/
+.env
+build/
 node_modules/
 .env
 build/
