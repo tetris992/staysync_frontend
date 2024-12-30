@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import Root from '../src/render/Root.js';
+import Root from './Root.js';
 import './index.css';
 import Modal from 'react-modal'; // Modal 임포트 추가
 
@@ -12,7 +12,7 @@ const container = document.getElementById('root');
 const root = createRoot(container);
 
 root.render(
-  <React.StrictMode>
+  // <React.StrictMode>
     <Root />
-  </React.StrictMode>
+  // </React.StrictMode>
 );
